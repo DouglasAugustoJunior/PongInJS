@@ -1,0 +1,26 @@
+canvas{
+    position: absolute;
+    border: 1px solid red;
+    background-color: black;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+body{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h3{
+    color: red;
+    font-size: 29pt;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    font-size: 16pt;
+    font-weight: bold;
+}
