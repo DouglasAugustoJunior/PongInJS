@@ -11,7 +11,7 @@
  
 O **Pong em JS** é um projeto simples que utilizei para iniciar meus conhecimentos em JS.
 
-![Imagem](https://github.com/DouglasAugustoJunior/)
+![Imagem](https://github.com/DouglasAugustoJunior/PongInJS/blob/master/_images/Game.PNG?raw=true)
 
 
  
