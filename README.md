@@ -9,7 +9,7 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/JavaScript-game-orange.svg)
  
-O **Pong em JS** é um projeto simples que utilizei para iniciar meus conhecimentos em JS.
+O **Pong em JS** é um projeto simples que utilizei para iniciar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/PongInJS/)**
 
 ![Imagem](https://github.com/DouglasAugustoJunior/PongInJS/blob/master/_images/Game.PNG?raw=true)
 
